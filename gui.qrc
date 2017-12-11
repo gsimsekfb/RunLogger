@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/run_man_icon.png</file>
+        <file>icons/right_arrow.png</file>
+        <file>icons/left_arrow.png</file>
+        <file>icons/minus.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/log.png</file>
+        <file>icons/log2.png</file>
+    </qresource>
+</RCC>
